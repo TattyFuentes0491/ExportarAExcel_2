@@ -1,7 +1,0 @@
----------------------------
-Tips a tener en cuenta
----------------------------
-
-Para generar el archivo en excel usando XLSReadWrite5 II, es necesario darle el tamano del stringGrid previamente tanto de las columnas como de las filas con el fin de que al recorrer la hoja de excel, se graben todos los registros.
-
-Emular un entorno de windows xp, con TXPManifest.
