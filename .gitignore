@@ -67,5 +67,9 @@ __Win32/
 # Castalia statistics file (since XE7 Castalia is distributed with Delphi)
 *.stat
 
+#Others files
+*.rar
+*.xlsx
+
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
